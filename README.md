@@ -12,6 +12,8 @@
 # İlgi Alanlarım
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/django-cD1?style=for-the-badge&logo=django)]()
+[![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
 
 [![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)
 [![](https://img.shields.io/github/followers/mebaysan?style=social)](https://www.github.com/mebaysan)

@@ -18,4 +18,6 @@
 [![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)
 [![](https://img.shields.io/github/followers/mebaysan?style=social)](https://www.github.com/mebaysan)
 
+![https://www.youracclaim.com/badges/06eff18d-d8af-464b-82d9-4ab8f01528fd/public_url](./assets/data-analysis-with-python.png)
+
  Freelancer at [BaysanSoft](https://www.baysansoft.com)

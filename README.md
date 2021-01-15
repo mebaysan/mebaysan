@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mebaysan&show_icons=true">
 
-# Merhaba, ben Enes Baysan!
+# Hello, I'm Baysan
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCfVXS5q8Hw-I_eEVq9RDi6g)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mebaysan)
@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mebaysan)
 [![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
 
-# İlgi Alanlarım
+# My Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/django-cD1?style=for-the-badge&logo=django)]()
 [![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()

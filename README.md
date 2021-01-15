@@ -14,6 +14,14 @@
 [![](https://img.shields.io/badge/django-cD1?style=for-the-badge&logo=django)]()
 [![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git)]()
+[![](https://img.shields.io/badge/github-cD1?style=for-the-badge&logo=github)]()
+[![](https://img.shields.io/badge/docker-cD1?style=for-the-badge&logo=docker)]()
+[![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
+[![](https://img.shields.io/badge/r-cD1?style=for-the-badge&logo=r)]()
+[![](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android)]()
+[![](https://img.shields.io/badge/kotlin-cD1?style=for-the-badge&logo=kotlin)]()
+
 
 [![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)
 [![](https://img.shields.io/github/followers/mebaysan?style=social)](https://www.github.com/mebaysan)

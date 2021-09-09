@@ -9,6 +9,8 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mebaysan)
 [![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
 
+Freelancer at [BaysanSoft](https://www.baysansoft.com)
+
 # My Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/django-cD1?style=for-the-badge&logo=django)]()
@@ -32,4 +34,6 @@
 [![](./assets/data-visualization-with-python.png)](https://www.youracclaim.com/badges/0bc55bef-e160-4e10-96fa-fd94fc851fdd/public_url)
 
 
- Freelancer at [BaysanSoft](https://www.baysansoft.com)
+ [![](./assets/logo.jpeg)](https://www.baysansoft.com)
+
+ 

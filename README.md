@@ -19,8 +19,6 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 [![](https://img.shields.io/badge/docker-cD1?style=for-the-badge&logo=docker)]()
 [![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
 [![](https://img.shields.io/badge/r-cD1?style=for-the-badge&logo=r)]()
-[![](https://img.shields.io/badge/android-cD1?style=for-the-badge&logo=android)]()
-[![](https://img.shields.io/badge/kotlin-cD1?style=for-the-badge&logo=kotlin)]()
 
 
 [![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)

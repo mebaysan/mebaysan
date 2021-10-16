@@ -30,6 +30,6 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 [![](./assets/data-visualization-with-python.png)](https://www.youracclaim.com/badges/0bc55bef-e160-4e10-96fa-fd94fc851fdd/public_url)
 
 
- [![](./assets/logo.jpeg)](https://www.baysansoft.com)
+ [![](./assets/logo.jpg)](https://www.baysansoft.com)
 
  

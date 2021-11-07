@@ -2,12 +2,16 @@
 
 # Hello, I'm Baysan
 
+Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organisation named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning and Artificial Intelligence. You can see my resume from [here](https://mebaysan.notion.site/Muhammed-Enes-Baysan-ff3f9a855c844a9b8641bbc7a7167ca4).
+
+Freelancer at [BaysanSoft](https://www.baysansoft.com)
+
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCfVXS5q8Hw-I_eEVq9RDi6g)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-enes-baysan-928258173/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mebaysan)
 [![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
 
-Freelancer at [BaysanSoft](https://www.baysansoft.com)
+
 
 # My Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()

@@ -2,9 +2,7 @@
 
 # Hello, I'm Baysan
 
-Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organisation named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning and Artificial Intelligence. 
-
-You can see my resume from [here](https://mebaysan.notion.site/Muhammed-Enes-Baysan-ff3f9a855c844a9b8641bbc7a7167ca4).
+Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organization named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence.
 
 Freelancer at [BaysanSoft](https://www.baysansoft.com)
 

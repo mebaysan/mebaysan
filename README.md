@@ -2,7 +2,7 @@
 
 Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organization named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence.
 
-Freelancer at [BaysanSoft](https://www.baysansoft.com)
+Freelancer at [BaysanSoft](https://www.baysansoft.com) & Data Analyst at [İHH](https://www.ihh.org.tr/)
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCfVXS5q8Hw-I_eEVq9RDi6g)

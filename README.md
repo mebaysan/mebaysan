@@ -4,6 +4,7 @@ Lifelong learner experienced Data Analyst who also has backend development exper
 
 Freelancer at [BaysanSoft](https://www.baysansoft.com)
 
+
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCfVXS5q8Hw-I_eEVq9RDi6g)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-enes-baysan-928258173/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mebaysan)
@@ -11,16 +12,14 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 
 
 
-# My Interests
-[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
-[![](https://img.shields.io/badge/django-cD1?style=for-the-badge&logo=django)]()
-[![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
-[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
-[![](https://img.shields.io/badge/git-cD1?style=for-the-badge&logo=git)]()
-[![](https://img.shields.io/badge/github-cD1?style=for-the-badge&logo=github)]()
-[![](https://img.shields.io/badge/docker-cD1?style=for-the-badge&logo=docker)]()
-[![](https://img.shields.io/badge/postgresql-cD1?style=for-the-badge&logo=postgresql)]()
-[![](https://img.shields.io/badge/r-cD1?style=for-the-badge&logo=r)]()
+# Tools
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> </a>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> </a>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
 
 
 [![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)

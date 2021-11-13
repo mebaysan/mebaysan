@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mebaysan&show_icons=true">
-
 # Hello, I'm Baysan
 
 Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organization named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence.
@@ -33,7 +31,12 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 [![](./assets/data-analysis-with-python.png)](https://www.youracclaim.com/badges/06eff18d-d8af-464b-82d9-4ab8f01528fd/public_url)
 [![](./assets/data-visualization-with-python.png)](https://www.youracclaim.com/badges/0bc55bef-e160-4e10-96fa-fd94fc851fdd/public_url)
 
-
- [![](./assets/logo.jpg)](https://www.baysansoft.com)
+<details>
+  <summary>More...</summary>
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=mebaysan&show_icons=true">
+  
+  [![](./assets/logo.jpg)](https://www.baysansoft.com)
+</details>
+ 
 
  

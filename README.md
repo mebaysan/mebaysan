@@ -26,7 +26,6 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 
 <details>
   <summary>More...</summary>
-## Badges
 
 [![](./assets/python-for-data-science-and-ai.png)](https://www.youracclaim.com/badges/8b5a6b14-3ca4-4717-b683-fa156513cba3/public_url)
 [![](./assets/data-analysis-with-python.png)](https://www.youracclaim.com/badges/06eff18d-d8af-464b-82d9-4ab8f01528fd/public_url)

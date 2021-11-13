@@ -33,7 +33,7 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 
 <details>
   <summary>More...</summary>
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=mebaysan&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=mebaysan&show_icons=true">
   
   [![](./assets/logo.jpg)](https://www.baysansoft.com)
 </details>

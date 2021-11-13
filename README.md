@@ -23,10 +23,6 @@ Freelancer at [BaysanSoft](https://www.baysansoft.com)
 </p>
 
 
-[![](https://img.shields.io/twitter/follow/mebaysan?style=social)](https://www.twitter.com/mebaysan)
-[![](https://img.shields.io/github/followers/mebaysan?style=social)](https://www.github.com/mebaysan)
-
-
 [![](./assets/python-for-data-science-and-ai.png)](https://www.youracclaim.com/badges/8b5a6b14-3ca4-4717-b683-fa156513cba3/public_url)
 [![](./assets/data-analysis-with-python.png)](https://www.youracclaim.com/badges/06eff18d-d8af-464b-82d9-4ab8f01528fd/public_url)
 [![](./assets/data-visualization-with-python.png)](https://www.youracclaim.com/badges/0bc55bef-e160-4e10-96fa-fd94fc851fdd/public_url)

@@ -5,9 +5,9 @@ Lifelong learner experienced Data Analyst who also has backend development exper
 Freelancer @[BaysanSoft](https://www.baysansoft.com) & Data Analyst @[İHH](https://www.ihh.org.tr/)
 
 
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCfVXS5q8Hw-I_eEVq9RDi6g)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-enes-baysan-928258173/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mebaysan)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebaysan/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://mebaysan.medium.com/)
 [![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
 
 

@@ -1,8 +1,14 @@
 # Hello, I'm Baysan
 
-Lifelong learner experienced Data Analyst who also has backend development experience. The entrepreneur created his own organization named BaysanSoft while his intern age. The main subjects which he related are Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence.
+I describe myself as a lifelong learner. I believe that I can learn everything if I want to learn. Therefore, I don't scare to join new challenges to try myself on new technologies and different project scales. I have almost 3 years experience of professional working despite I am studying my last year in Management Information Systems. Currently, I work as a data analyst where I develop custom dashboards by using Python, creating machine learning models, mining a data warehouse to get insights from customer behaviors. 
 
-Data Analyst | Data Scientist | Freelancer
+Also, I work at my own enterprise which I created while my intern age to serve the customers as a digital agency including web development, creating dashboards, integrating 3rd party applications to the customers' applications, or developing new 3rd party applications to create bridges between the customers' applications and other 3rd party applications. 
+
+I am basically related to Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence topics. Nowadays, I use cloud technologies to improve my job. I also like meeting new people over a cup of coffee. I am always eager to challenges hards me. Feel free to reach out me at menesbaysan@gmail.com or DM me on LinkedIn.
+
+Competencies: Python, SQL, Web Development, Data Analysis, Data Visualization, Learning How to Learn
+
+Data Analyst | Data Engineer | Software Developer | Freelancer
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)

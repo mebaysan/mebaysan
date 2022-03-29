@@ -1,6 +1,6 @@
 # Hello, I'm Baysan
 
-I describe myself as a lifelong learner. I believe that I can learn everything if I want to learn. Therefore, I don't scare to join new challenges to try myself on new technologies and different project scales. I have almost 3 years experience of professional working despite I am studying my last year in Management Information Systems. Currently, I work as a business intelligence developer. 
+I describe myself as a lifelong learner. I believe that I can learn everything if I want to learn. Therefore, I don't scare to join new challenges and try myself on new technologies and different project scales. Generally, I work on data-related projects. I help businesses to improve their Business Intelligence. I love and use open source tools to solve problems. I am not stubborn with any technologies. I use them to solve problems. So, I try to find the best tool for the kind of problem that I am trying to solve. Therefore, I can work with all kinds of tools. I have almost 3 years experience of in professional work. Currently, I work as a business intelligence developer.
 
 Also, I work at my own enterprise which I created while my intern age to serve the customers as a digital agency including web development, creating dashboards, integrating 3rd party applications to the customers' applications, or developing new 3rd party applications to create bridges between the customers' applications and other 3rd party applications. 
 

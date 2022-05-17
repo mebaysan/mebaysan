@@ -6,7 +6,7 @@ Also, I work at my own enterprise which I created while my intern age to serve t
 
 I am basically related to Data Analytics, Data Ethics, Machine Learning, and Artificial Intelligence topics. Nowadays, I use cloud technologies to improve my job. I also like meeting new people over a cup of coffee. I am always eager to challenges hards me. Feel free to reach out me at menesbaysan@gmail.com or DM me on LinkedIn.
 
-Competencies: Python, SQL, Web Development, Data Analysis, Data Visualization, Learning How to Learn
+Competencies: Learning How to Learn, Python, SQL, Web Development, Data Analysis, Data Visualization
 
 Data Analyst | Data Engineer | Software Developer | Freelancer
 

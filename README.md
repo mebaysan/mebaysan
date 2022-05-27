@@ -8,7 +8,7 @@ I am basically related to Data Analytics, Data Ethics, Machine Learning, and Art
 
 Competencies: Learning How to Learn, Python, SQL, Web Development, Data Analysis, Data Visualization
 
-Data Analyst | Data Engineer | Software Developer | Freelancer
+Business Intelligence Developer | Data Engineer | Software Developer
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)

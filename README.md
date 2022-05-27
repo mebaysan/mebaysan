@@ -37,7 +37,7 @@ Business Intelligence Developer | Data Engineer | Software Developer
 </p>
 
 
-<img src="./assets/gda.png" width=100 height=100>
+<a href="https://www.credly.com/badges/af3d4bd8-e774-4161-b5a9-1df597026b54/public_url"> <img src="./assets/gda.png" width=200 height=200></a>
 
 <details>
   <summary>More...</summary>

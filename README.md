@@ -16,6 +16,11 @@ Data Analyst | Data Engineer | Software Developer | Freelancer
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://mebaysan.medium.com/)
 [![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mebaysan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/mebaysan/en?trk=profile-badge">Muhammed Enes Baysan</a></div>
+              
+
 
 
 # Tools

@@ -2,7 +2,7 @@
 
 I describe myself as a lifelong learner. Therefore, I don't scare to join new challenges and try myself on new technologies and different project scales. Generally, I work on data-related projects. I help businesses to improve their Business Intelligence and Software Infrastructures such as CI & CD pipelines, Cloud environments and Data pipelines. I love and use open source tools to solve problems. I am not stubborn with any technologies. I use them to solve problems. I can work with all kinds of tools because I try to find the best tool for the kind of problem that I am trying to solve.
 
-I am basically related to Software Architecting, DevOps, Security, Data Analytics, Data Ethics and Artificial Intelligence topics. I am always eager to challenges that hards me.
+I am basically related to Software Architecting, DevOps, Security, Data Analytics, Data Ethics and Artificial Intelligence. I am always eager to challenges that hards me.
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)

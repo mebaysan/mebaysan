@@ -8,7 +8,7 @@ I am basically related to Software Architecting, DevOps, Security, Data Analytic
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebaysan/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://mebaysan.medium.com/)
-[![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:menesbaysan@gmail.com)](mailto:menesbaysan@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/menesbaysan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mail@mebaysan.com)](mailto:mail@mebaysan.com)
 
 
 # Tools

@@ -1,8 +1,8 @@
 # Hello, I'm Baysan
 
-I describe myself as a lifelong learner, which means I am not afraid to take on new challenges and try my hand at different technologies and projects of varying scales. My focus is primarily on data-related projects, helping businesses to improve their Business Intelligence and Software Infrastructures through CI/CD pipelines, Cloud environments, and Data pipelines. I am passionate about using open source tools to solve problems and do not limit myself to any one technology, instead opting for the best tool to solve a given problem.
+I describe myself as a **lifelong learner** and **passionate IT professional**, which means I am not afraid to take on new challenges and try my hand at different technologies and projects of varying scales. My focus is primarily on **data-related projects**, helping businesses to improve their Business Intelligence and Software Infrastructures through **CI/CD pipelines**, **Cloud environments**, and **Data pipelines**. I am passionate about using **open source tools** to solve problems and do not limit myself to any one technology, instead opting for the best tool to solve a given problem.
 
-My expertise lies in **Software Architecting**, **DevOps**, **Security**, **Data Analytics**, **Data Ethics**, and **Artificial Intelligence**. I am always eager to tackle challenges that push me outside of my comfort zone.
+I am always eager to tackle challenges that push me outside of my comfort zone.
 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/c/BaysanSoft)

@@ -1,3 +1,10 @@
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://ihh.org.tr/en/donate)
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
+![FROM THE RIVER TO THE SEA](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_From_the_river_to_the_sea-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+
+
 # Hello, I'm Baysan
 
 I describe myself as a **lifelong learner** and **passionate IT professional**, which means I am not afraid to take on new challenges and try my hand at different technologies and projects of varying scales. My focus is primarily on **data-related projects**, helping businesses to improve their Business Intelligence and Software Infrastructures through **CI/CD pipelines**, **Cloud environments**, and **Data pipelines**. I am passionate about using **open source tools** to solve problems and do not limit myself to any one technology, instead opting for the best tool to solve a given problem.

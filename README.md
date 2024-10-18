@@ -7,7 +7,11 @@
 
 # Hello, I'm Baysan
 
-I describe myself as a **lifelong learner** and **passionate IT professional**, which means I am not afraid to take on new challenges and try my hand at different technologies and projects of varying scales. My focus is primarily on **data-related projects**, helping businesses to improve their Business Intelligence and Software Infrastructures through **CI/CD pipelines**, **Cloud environments**, and **Data pipelines**. I am passionate about using **open source tools** to solve problems and do not limit myself to any one technology, instead opting for the best tool to solve a given problem.
+A lifelong learner and experienced Software Developer, specializing in Software Architecture, DevOps, Security, Data, and Artificial Intelligence.
+
+
+With a passion for continuous growth, I am dedicated to staying at the forefront of emerging technologies. I thrive on challenges and am driven by a strong work ethic and determination. I’m a proponent of open-source tools, using them creatively to tackle complex problems. My adaptable approach ensures the use of the most effective technologies, leading to a proven track record of success throughout my career.
+
 
 I am always eager to tackle challenges that push me outside of my comfort zone.
 
